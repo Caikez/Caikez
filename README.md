@@ -1,5 +1,5 @@
 
-# Olá 👋
+# Olá 
 
 Sou estudante de Engenharia da Computação na UNIFESP com interesse em desenvolvimento full stack, IA aplicada, automação e construção rápida de produtos.
 
