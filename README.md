@@ -13,7 +13,7 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 ---
 
-# 🚀 Tecnologias
+# Tecnologias
 
 ## Linguagens
 - Python
@@ -39,7 +39,7 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 
 ---
 
-# 📌 Projetos
+# Projetos
 
 ## 2Best — Rede Social Full Stack
 **Tecnologias:** Next.js, Firebase
@@ -94,21 +94,21 @@ Plataforma focada em automação de processos imobiliários e geração intelige
 
 ---
 
-# 📚 Formação
+# Formação
 
-🎓 Engenharia da Computação — UNIFESP  
-2024 – Atual
+Engenharia da Computação — UNIFESP  
+2025 – Atual
 
 ---
 
-# 📖 Cursos
+# Cursos
 
 - Introdução à Ciência da Computação com Python — USP / Coursera
 - CS50 — Harvard University (Em andamento)
 
 ---
 
-# 🌎 Idiomas
+# Idiomas
 
 - Português — Nativo
 - Inglês — Avançado
@@ -116,7 +116,7 @@ Plataforma focada em automação de processos imobiliários e geração intelige
 
 ---
 
-# 📈 Atualmente aprendendo
+# Atualmente aprendendo
 
 - Arquitetura de sistemas
 - IA aplicada
@@ -127,6 +127,6 @@ Plataforma focada em automação de processos imobiliários e geração intelige
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Construir sistemas úteis, escaláveis e inteligentes enquanto evoluo como desenvolvedor e engenheiro de software.
