@@ -97,7 +97,7 @@ Plataforma focada em automação de processos imobiliários e geração intelige
 # Formação
 
 Engenharia da Computação — UNIFESP  
-2025 – Atual
+2026 – Atual
 
 ---
 
