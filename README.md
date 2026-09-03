@@ -1,132 +1,57 @@
+# Olá, sou o Caike
 
-# Olá 
+Estudante de Engenharia da Computação na UNIFESP, em São José dos Campos. Gosto de construir produtos que saem do papel e chegam a usuário real.
 
-Sou estudante de Engenharia da Computação na UNIFESP com interesse em desenvolvimento full stack, IA aplicada, automação e construção rápida de produtos.
-
-Atualmente estudo e desenvolvo projetos envolvendo:
-- Full Stack Development
-- Sistemas com IA
-- RAG (Retrieval-Augmented Generation)
-- APIs
-- Automação de workflows
-- Backend e infraestrutura
+Falo português, inglês (C1) e alemão (B2) — o alemão aprendi morando dez meses em Munique, do zero ao B2.
 
 ---
 
-# Tecnologias
+## Claus — SaaS B2B para o mercado imobiliário
 
-## Linguagens
-- Python
-- JavaScript
-- TypeScript
-- SQL
+**No ar:** [useclaus.com](https://useclaus.com) · **App iOS:** publicado na App Store desde agosto de 2026
+**Stack:** Next.js, React, TypeScript, PostgreSQL/Supabase, React Native (Expo), Vercel, GitHub Actions
 
-## Frameworks e Ferramentas
-- Next.js
-- Firebase
-- Supabase
-- PostgreSQL
-- Docker
-- Git
-- n8n
+Plataforma web e aplicativo que organizam toda a etapa que antecede o contrato de locação e venda de imóveis: criação do caso, coleta de dados das partes por formulário público, proposta e contraproposta, gestão documental e assinatura eletrônica.
 
-## Conceitos
-- REST APIs
-- RAG Systems
-- Vector Databases
-- Full Stack Architecture
-- Workflow Automation
+Projeto tocado em dupla, do zero à publicação: definição do produto, modelo de dados, controle de acesso por empresa, e-mail transacional, notificações push e todo o processo de submissão na App Store. Desenvolvimento assistido por IA, aprendendo a stack ao longo do caminho.
+
+O repositório é privado — é um produto comercial, com dados de clientes. O sistema está no ar e eu mostro funcionando a quem tiver interesse.
 
 ---
 
-# Projetos
+## Sistema de recuperação de informação com RAG
 
-## 2Best — Rede Social Full Stack
-**Tecnologias:** Next.js, Firebase
+**Stack:** n8n, PostgreSQL, Docker · Projeto em dupla, 2025
 
-Protótipo de rede social desenvolvido para estudo de arquitetura full stack e construção de aplicações modernas.
-
-### Funcionalidades
-- Autenticação de usuários
-- Persistência em nuvem
-- Estrutura social básica
-- Frontend em Next.js
-- Backend integrado com Firebase
-
-### Aprendizados
-- Arquitetura full stack
-- Integração frontend/backend
-- Gerenciamento de autenticação
-- Estruturação de aplicações modernas
+Sistema de busca sobre documentos de negócio usando banco vetorizado para pesquisa contextual, com fluxos de ingestão automatizados em n8n e ambiente conteinerizado em Docker.
 
 ---
 
-## Sistema Inteligente Baseado em RAG
-**Tecnologias:** n8n, PostgreSQL, Docker
+## 2Best — Rede social full stack (protótipo)
 
-Sistema experimental de armazenamento e busca inteligente de informações empresariais utilizando conceitos de RAG e banco vetorizado.
+**Stack:** Next.js, Firebase · Projeto em dupla, 2025
 
-### Funcionalidades
-- Busca contextual inteligente
-- Estrutura vetorizada de dados
-- Automação de workflows
-- Ambiente containerizado
-
-### Aprendizados
-- Conceitos de RAG
-- Banco vetorial
-- Docker
-- Backend infrastructure
-- Automação de processos
+Protótipo funcional de rede social com autenticação e armazenamento em nuvem, cobrindo o frontend em Next.js e o backend e o banco no Firebase. Feito para estudar arquitetura full stack.
 
 ---
 
-## Sistema Jurídico Imobiliário (Em desenvolvimento)
-**Tecnologias:** Next.js, Supabase, Git
+## Tecnologias
 
-Plataforma focada em automação de processos imobiliários e geração inteligente de contratos.
+**Linguagens:** TypeScript · JavaScript · C · SQL · Python (básico)
+**Frameworks:** Next.js · React · React Native / Expo · Node.js
+**Dados e infra:** PostgreSQL · Supabase · Firebase · Docker · Vercel · GitHub Actions
+**Ferramentas:** Git · APIs REST · n8n
 
-### Objetivos
-- Automatizar fluxos jurídicos
-- Gerar contratos inteligentes
-- Estruturar sistema escalável
-- Desenvolver arquitetura moderna com Supabase
+## Formação
 
----
+Bacharelado em Ciência e Tecnologia + Engenharia da Computação — UNIFESP · 2026 – 2030
 
-# Formação
+**Cursos:** CS50, Harvard (em andamento) · Introdução à Ciência da Computação com Python, USP/Coursera
 
-Engenharia da Computação — UNIFESP  
-2026 – Atual
+## Estudando agora
 
----
+Fundamentos de C, algoritmos e estruturas de dados na graduação. Python e Git com mais profundidade. Quero entender melhor a camada de banco de dados e como sistemas se comportam sob carga.
 
-# Cursos
+## Contato
 
-- Introdução à Ciência da Computação com Python — USP / Coursera
-- CS50 — Harvard University (Em andamento)
-
----
-
-# Idiomas
-
-- Português — Nativo
-- Inglês — Avançado
-- Alemão — Intermediário
-
----
-
-# Atualmente aprendendo
-
-- Arquitetura de sistemas
-- IA aplicada
-- Engenharia de software
-- Backend escalável
-- Banco vetorial
-- Sistemas distribuídos
-
----
-
-# Objetivo
-
-Construir sistemas úteis, escaláveis e inteligentes enquanto evoluo como desenvolvedor e engenheiro de software.
+morelli.caike@gmail.com · [LinkedIn](https://www.linkedin.com/in/caike-morelli-ciola-fonseca-635225405/)
